@@ -1,0 +1,70 @@
+﻿variable,label,label_english,translation_status
+seq,Número de secuencia original,Original sequence number,translated
+subf1,Char 1-4 del archivo,Characters 1–4 of file,translated
+subf2,Char 5-8 del archivo,Characters 5–8 of file,translated
+v1,Sexo,Sex,translated
+v2,"¿Está usted casado, soltero, divorciado, o qué?","Are you married, single, divorced, or something else?",translated
+v3,¿Tiene usted hijos?,Do you have children?,translated
+v6,¿Cuántos años tiene usted?,How old are you?,translated
+v7,"Algunos dicen que las mujeres no deben meterse en política. En cambio, otros di",Some say women should not get involved in politics; others disagree [question truncated],partial_original_truncated
+v8,Algunos dicen que los maridos deben compartir las decisiones entre la pareja. Ot,Some say spouses should share decisions; others disagree [question truncated],partial_original_truncated
+v9,"Suponga usted que un matrimonio está sentado en la sala por la noche, los dos c",Imagine a married couple sitting in the living room at night [question truncated],partial_original_truncated
+v10,Algunas personas dicen que los jóvenes de hoy deben tener más libertad.  En ca,Some say young people today should have more freedom; others disagree [question truncated],partial_original_truncated
+v11,¿Cuánta influencia cree que tiene sobre la forma en que se gobierna este país,How much influence do you think you have over how this country is governed? [question truncated],partial_original_truncated
+v12,¿Cuánto interés diría que Ud. personalmente siente por los asuntos de gobier,How interested are you personally in government affairs? [question truncated],partial_original_truncated
+v17,"Algunas personas dicen que se debe permitir que todos expresen su opinion, no im","Some say everyone should be allowed to express their opinion, regardless of ... [question truncated]",partial_original_truncated
+v18,Algunos dicen que necesitamos en este país es un gobierno fuerte que nos diga l,Some say this country needs a strong government that tells us ... [question truncated],partial_original_truncated
+v19,¿Cree usted que estaríamos mejor o peor en este país si hubiera un solo parti,Would this country be better or worse off if there were only one political party? [question truncated],partial_original_truncated
+v20,"Hablando en general de la gente, ¿cree usted que se puede confiar en la mayorí","Generally speaking, can most people be trusted? [question truncated]",partial_original_truncated
+v21,¿Cree usted que en la mayoría de las veces la gente se preocupa por si misma n,Do most people look out for themselves rather than ...? [question truncated],partial_original_truncated
+v22,¿Cree que la mayoría de la gente trataría de aprovecharse de usted si se les,Would most people try to take advantage of you if they ...? [question truncated],partial_original_truncated
+v23,Algunos dicen que en estos tiempos uno no sabe con quien puede contar en los mom,Some say nowadays you do not know whom you can count on in difficult times [question truncated],partial_original_truncated
+v36,¿Con que frecuencia piensa usted que se puede confiar en que el gobierno federa,How often can the federal government be trusted to ...? [question truncated],partial_original_truncated
+v37,"¿Piensa usted que el gobierno malgaste mucho dinero que se paga en impuestos, m","Does the government waste a lot of tax money, some, or ...? [question truncated]",partial_original_truncated
+v38,¿Diría usted que el gobierno es dirigido por unos cuantos grandes intereses pa,Is government run by a few big interests for ...? [question truncated],partial_original_truncated
+v39,¿Cree usted que la mayoría de lo que dirigen el gobierno son personas listas q,Are most people who run the government capable people who ...? [question truncated],partial_original_truncated
+v40,"¿Piensa usted que muchas de las personas que dirigen el gobierno es dishonesta,","Are many people who run the government dishonest, ...? [question truncated]",partial_original_truncated
+v48,Algunas personas dicen que a los oficiales públicos les importa mucho lo que pi,Some say public officials care a great deal about what ... [question truncated],partial_original_truncated
+v49,Algunos dicen que a veces la política y el gobierno parecen se tan complicados,Some say politics and government sometimes seem so complicated ... [question truncated],partial_original_truncated
+v62,¿Hasta qué punto cree que los derechos básicos del ciudadano están bien prot,To what extent are citizens’ basic rights well protected? [question truncated],partial_original_truncated
+v63,¿Hasta qué punto se siente orgulloso de vivir bajo el sistema político mexica,How proud are you to live under the Mexican political system? [question truncated],partial_original_truncated
+v64,¿Hasta qué punto piensa usted que el sistema político mexicano es el mejor si,To what extent is the Mexican political system the best system ...? [question truncated],partial_original_truncated
+v65,¿Hasta qué punto piensa usted que se debe apoyar el sistema político mexicano,To what extent should the Mexican political system be supported? [question truncated],partial_original_truncated
+v66,¿Hasta qué punto piensa que usted y sus amigos están bien representados en el,To what extent are you and your friends well represented in the ...? [question truncated],partial_original_truncated
+v67,"Basándose en su experiencia, ¿hasta qué punto diría usted que los políticos","Based on your experience, to what extent would you say politicians ...? [question truncated]",partial_original_truncated
+v68,¿Con que firmeza aprobaría o desaprobaría usted que el gobierno pasara una le,How strongly would you approve or disapprove if the government passed a law ...? [question truncated],partial_original_truncated
+v69,¿Con que firmeza aprobaría o desaprobaría usted que el gobierno prohibiera re,How strongly would you approve or disapprove if the government prohibited ...? [question truncated],partial_original_truncated
+v70,¿Con que firmeza aprobaría o desaprobaría usted que el gobierno censurara en,How strongly would you approve or disapprove if the government censored ...? [question truncated],partial_original_truncated
+v71,¿Con qué firmeza aprueba o desaprueba el derecho de votar de las personas que,How strongly do you approve or disapprove of voting rights for people who ...? [question truncated],partial_original_truncated
+v72,¿Con qué firmeza aprueba o desaprueba el que las personas que hablan mal de la,How strongly do you approve or disapprove of people who speak badly of ...? [question truncated],partial_original_truncated
+v73,¿Con qué firmeza aprueba o desaprueba que personas que hablan mal de la forma,How strongly do you approve or disapprove of people who criticize the way ...? [question truncated],partial_original_truncated
+v74,¿Con qué firmeza aprueba o desaprueba que el Congreso pase leyes prohibiéndol,How strongly do you approve or disapprove of Congress passing laws prohibiting ...? [question truncated],partial_original_truncated
+v81,¿Con qué firmeza aprobará o desaprobaría que las personas participen en una,How strongly would you approve or disapprove of people participating in a ...? [question truncated],partial_original_truncated
+v82,¿Con qué firmeza aprobará o desaprobaría que las personas se apoderen de fá,How strongly would you approve or disapprove of people taking over factories ...? [question truncated],partial_original_truncated
+v83,¿Con qué firmeza aprobará o desaprobaría que las personas participen en mani,How strongly would you approve or disapprove of people participating in demonstrations ...? [question truncated],partial_original_truncated
+v84,¿Con qué firmeza aprobará o desaprobaría que las personas participen en un n,How strongly would you approve or disapprove of people participating in a ...? [question truncated],partial_original_truncated
+v85,¿Con qué firmeza aprobará o desaprobaría que las personas trabajen para un p,How strongly would you approve or disapprove of people working for a political ...? [question truncated],partial_original_truncated
+v92a,"Según el sentido que tengan para usted los términos ""izquierda"" y ""derecha"" cu","Given what “left” and “right” mean to you, where ...? [question truncated]",partial_original_truncated
+v96,"A través de los años, ¿cuánta intención piensa usted que el gobierno ha pue","Over the years, how much attention do you think the government has paid ...? [question truncated]",partial_original_truncated
+v97,¿Cuánto piensa usted que los partidos políticos ayudan a hacer que el gobiern,How much do political parties help make the government ...? [question truncated],partial_original_truncated
+v98,¿Qué tanto piensa usted que tener elecciones hace que el gobierno ponga más a,How much do elections make the government pay more attention ...? [question truncated],partial_original_truncated
+v99,¿Cuánta intención piensa usted que la mayoría de los miembros del congreso p,How much attention do most members of Congress pay ...? [question truncated],partial_original_truncated
+v100,¿Me podría decir a cuál partido político apoya usted?,Which political party do you support?,translated
+v105,¿Votó usted en las últimas elecciones presidenciales?,Did you vote in the last presidential election?,translated
+v110,¿Tuvo usted la oportunidad de asistir a la escuela?,Did you have the opportunity to attend school?,translated
+v111,"¿Hasta qué año llegó usted en al escuela, el colegio, o la universidad? (nú","What grade/year did you reach in school, college, or university? (number ... [question truncated]",partial_original_truncated
+v112,¿Cuenta usted con los servicios de agua potable (entubada) en su casa o apartam,Does your home or apartment currently have piped drinking water? [question truncated],partial_original_truncated
+v113,¿Cuenta usted con la electricidad en su casa o apartamento actualmente?,Does your home or apartment currently have electricity?,translated
+v114,¿Cuenta usted con servicios sanitarios dentro de su casa o apartamento actualme,Does your home or apartment currently have indoor sanitation/toilet facilities? [question truncated],partial_original_truncated
+v115,¿Cuenta usted con los servicios televisión en su casa o apartamento actualment,Does your home or apartment currently have a television? [question truncated],partial_original_truncated
+v116,¿Tiene usted refrigerador en su casa o apartamento actualmente?,Does your home or apartment currently have a refrigerator?,translated
+v117,¿Tiene usted plancha eléctrica en su casa o apartamento actualmente?,Does your home or apartment currently have an electric iron?,translated
+v118,¿Tiene usted lavadora en su casa o apartamento actualmente?,Does your home or apartment currently have a washing machine?,translated
+v119,¿Tiene usted calentador de agua (boiler) en su casa o apartamento actualmente?,Does your home or apartment currently have a water heater (boiler)?,translated
+v120,¿Tiene usted teléfono en su casa o apartamento actualmente?,Does your home or apartment currently have a telephone?,translated
+v121,¿Tiene usted máquina de coser en su casa o apartamento actualmente?,Does your home or apartment currently have a sewing machine?,translated
+v122,¿Tiene usted carro en su casa o apartamento actualmente?,Does your home or apartment currently have a car?,translated
+v123,¿Tiene usted motocicleta actualmente?,Do you currently have a motorcycle?,translated
+v124,¿Tiene usted reloj de pulsera (entrevistado) actualmente?,Do you (the respondent) currently have a wristwatch?,translated
+v126,Grado de cooperación,Degree of cooperation,translated
+v127,Validez de las respuestas,Validity of responses,translated

@@ -1,0 +1,240 @@
+﻿variable,value,response,response_english
+v1,1,Hombre,Man
+v1,2,Mujer,Woman
+v2,1,Casado,Married
+v2,2,Soltero,Single
+v2,3,Divorciado,Divorced
+v2,4,Juntado (union libre),Living together (common-law union)
+v2,5,Separado,Separated
+v2,6,Viudo,Widowed
+v3,1,Sí,Yes
+v3,2,No,No
+v3,9,INAP,Not applicable
+v6,88,NS,Don’t know
+v6,98,NR,No response
+v6,99,INAP,Not applicable
+v7,1,Mujeres no deben meterse,Women should not get involved
+v7,2,Está bien que se metan,It is acceptable for women to get involved
+v7,8,NS,Don’t know
+v8,1,Compartir,Share decisions
+v8,2,El hombre con la última palabra,The man should have the final say
+v8,8,NS,Don’t know
+v9,1,Que él le pida a su mujer que le traiga el vaso de agua,He should ask his wife to bring him a glass of water
+v9,2,Que él mismo se traiga el vaso de agua,He should get the glass of water himself
+v9,8,NS,Don’t know
+v10,1,Más libertad,More freedom
+v10,2,Más controlados,More control
+v10,8,NS,Don’t know
+v11,1,Ninguna influencia,No influence
+v11,2,Alguna,Some
+v11,3,Bastante,Quite a lot
+v11,4,Mucha influencia,A great deal of influence
+v11,8,NS,Don’t know
+v12,1,Mucho interés,A great deal of interest
+v12,2,Algún interés,Some interest
+v12,3,Poco interés,Little interest
+v12,4,Nada de interés,No interest
+v12,8,NS,Don’t know
+v17,1,Permitir hablar,Allow them to speak
+v17,2,No permitir hablar,Do not allow them to speak
+v17,8,NS,Don’t know
+v18,1,Gobierno fuerte,Strong government
+v18,2,Menos intervención,Less intervention
+v18,8,NS,Don’t know
+v19,1,Mejor,Better
+v19,2,Peor,Worse
+v19,3,Igual,The same
+v19,8,NS,Don’t know
+v20,1,Se puede confiar,People can be trusted
+v20,2,Hay que cuidarse,You have to be careful
+v20,8,NS,Don’t know
+v21,1,Preocupa de si misma,Concerned with themselves
+v21,2,Ayudarle al prójimo,Help others
+v21,8,NS,Don’t know
+v22,1,Sí se aprovecharían,"Yes, they would take advantage"
+v22,2,No se aprovecharían,"No, they would not take advantage"
+v22,8,NS,Don’t know
+v23,1,No sabe (con quien puede contar),Do not know whom to count on
+v23,2,Sí sabe (con quien puede contar),Know whom to count on
+v23,8,NS,Don’t know
+v36,1,Casi siempre,Almost always
+v36,2,La mayor parte del tiempo,Most of the time
+v36,3,Algunas veces,Sometimes
+v36,4,Nunca,Never
+v36,8,NS,Don’t know
+v37,1,Malgasta mucho,Wastes a lot
+v37,2,Malgasta algo,Wastes some
+v37,3,No malgasta mucho,Does not waste much
+v37,8,NS,Don’t know
+v38,1,Grandes intereses (si mismos),Big interests (themselves)
+v38,2,Beneficio del pueblo,For the benefit of the people
+v38,8,NS,Don’t know
+v39,1,Saben lo que hacen,Know what they are doing
+v39,2,No saben  lo que hacen,Do not know what they are doing
+v39,8,NS,Don’t know
+v40,1,Mucha es deshonesta,Many are dishonest
+v40,2,No mucha es deshonesta,Not many are dishonest
+v40,3,Casi nadie es deshonesta,Almost no one is dishonest
+v40,8,NS,Don’t know
+v48,1,De acuerdo,Agree
+v48,2,No de acuerdo,Disagree
+v48,8,NS,Don’t know
+v49,1,Sí está de acuerdo,Agree
+v49,2,No está de acuerdo,Disagree
+v49,8,NS,Don’t know
+v62,1,Nada,Not at all
+v62,10,Mucho,Very much
+v62,88,NS,Don’t know
+v63,1,Nada,Not at all
+v63,10,Mucho,Very much
+v63,88,NS,Don’t know
+v64,1,Nada,Not at all
+v64,10,Mucho,Very much
+v64,88,NS,Don’t know
+v65,1,Nada,Not at all
+v65,10,Mucho,Very much
+v65,88,NS,Don’t know
+v66,1,Nada,Not at all
+v66,10,Mucho,Very much
+v66,88,NS,Don’t know
+v67,1,Nada,Not at all
+v67,10,Mucho,Very much
+v67,88,NS,Don’t know
+v68,1,Desprueba fuertemente,Strongly disapprove
+v68,10,Aprueba fuertemente,Strongly approve
+v68,88,NS,Don’t know
+v68,99,INAP,Not applicable
+v69,1,Desprueba fuertemente,Strongly disapprove
+v69,10,Aprueba fuertemente,Strongly approve
+v69,88,NS,Don’t know
+v69,99,INAP,Not applicable
+v70,1,Desprueba fuertemente,Strongly disapprove
+v70,10,Aprueba fuertemente,Strongly approve
+v70,88,NS,Don’t know
+v70,99,INAP,Not applicable
+v71,1,Desprueba fuertemente,Strongly disapprove
+v71,10,Aprueba fuertemente,Strongly approve
+v71,88,NS,Don’t know
+v71,99,INAP,Not applicable
+v72,1,Desprueba fuertemente,Strongly disapprove
+v72,10,Aprueba fuertemente,Strongly approve
+v72,88,NS,Don’t know
+v72,99,INAP,Not applicable
+v73,1,Desprueba fuertemente,Strongly disapprove
+v73,10,Aprueba fuertemente,Strongly approve
+v73,88,NS,Don’t know
+v73,99,INAP,Not applicable
+v74,1,Desprueba fuertemente,Strongly disapprove
+v74,10,Aprueba fuertemente,Strongly approve
+v74,88,NS,Don’t know
+v74,99,INAP,Not applicable
+v81,1,Desprueba fuertemente,Strongly disapprove
+v81,10,Aprueba fuertemente,Strongly approve
+v81,88,NS,Don’t know
+v81,99,INAP,Not applicable
+v82,1,Desprueba fuertemente,Strongly disapprove
+v82,10,Aprueba fuertemente,Strongly approve
+v82,88,NS,Don’t know
+v82,99,INAP,Not applicable
+v83,1,Desprueba fuertemente,Strongly disapprove
+v83,10,Aprueba fuertemente,Strongly approve
+v83,88,NS,Don’t know
+v83,99,INAP,Not applicable
+v84,1,Desprueba fuertemente,Strongly disapprove
+v84,10,Aprueba fuertemente,Strongly approve
+v84,88,NS,Don’t know
+v84,99,INAP,Not applicable
+v85,1,Desprueba fuertemente,Strongly disapprove
+v85,10,Aprueba fuertemente,Strongly approve
+v85,88,NS,Don’t know
+v85,99,INAP,Not applicable
+v92a,1,Izquierda,Left
+v92a,10,Derecha,Right
+v92a,88,NS,Don’t know
+v92a,99,INAP,Not applicable
+v96,1,Bastante,Quite a lot
+v96,2,Algo,Somewhat
+v96,3,No mucha atencion,Not much attention
+v96,8,NS,Don’t know
+v96,9,INAP,Not applicable
+v97,1,Bastante,Quite a lot
+v97,2,Algo,Somewhat
+v97,3,No mucha atencion,Not much attention
+v97,8,NS,Don’t know
+v97,9,INAP,Not applicable
+v98,1,Bastante,Quite a lot
+v98,2,Algo,Somewhat
+v98,3,No mucha atencion,Not much attention
+v98,8,NS,Don’t know
+v98,9,INAP,Not applicable
+v99,1,Bastante,Quite a lot
+v99,2,Algo,Somewhat
+v99,3,No mucha atencion,Not much attention
+v99,8,NS,Don’t know
+v99,9,INAP,Not applicable
+v100,1,PRI,PRI
+v100,2,PAN,PAN
+v100,3,PPS,PPS
+v100,4,PARM,PARM
+v100,5,No votó,Did not vote
+v100,8,NS,Don’t know
+v100,9,INAP,Not applicable
+v105,1,Sí,Yes
+v105,2,No,No
+v105,8,NS,Don’t know
+v105,9,INAP,Not applicable
+v110,1,Sí,Yes
+v110,2,No,No
+v110,8,NS,Don’t know
+v111,88,NS,Don’t know
+v111,99,INAP,Not applicable
+v112,0,No,No
+v112,1,Sí,Yes
+v112,8,NS,Don’t know
+v113,0,No,No
+v113,1,Sí,Yes
+v113,8,NS,Don’t know
+v114,0,No,No
+v114,1,Sí,Yes
+v114,8,NS,Don’t know
+v115,0,No,No
+v115,1,Sí,Yes
+v115,8,NS,Don’t know
+v116,0,No,No
+v116,1,Sí,Yes
+v116,8,NS,Don’t know
+v117,0,No,No
+v117,1,Sí,Yes
+v117,8,NS,Don’t know
+v118,0,No,No
+v118,1,Sí,Yes
+v118,8,NS,Don’t know
+v119,0,No,No
+v119,1,Sí,Yes
+v119,8,NS,Don’t know
+v120,0,No,No
+v120,1,Sí,Yes
+v120,8,NS,Don’t know
+v121,0,No,No
+v121,1,Sí,Yes
+v121,8,NS,Don’t know
+v122,0,No,No
+v122,1,Sí,Yes
+v122,2,Dos o más carros,Two or more cars
+v122,8,NS,Don’t know
+v123,0,No,No
+v123,1,Sí,Yes
+v123,8,NS,Don’t know
+v124,0,No,No
+v124,1,Sí,Yes
+v124,8,NS,Don’t know
+v126,1,Bueno,Good
+v126,2,Regular,Fair
+v126,3,Malo,Poor
+v126,8,NS,Don’t know
+v126,9,Inap,Not applicable
+v127,1,Verdaderas,Truthful
+v127,2,Dudosas,Questionable
+v127,3,Muy dudosas,Highly questionable
+v127,8,NS,Don’t know
+v127,9,Inap,Not applicable
